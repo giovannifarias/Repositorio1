@@ -1,2 +1,0 @@
-# firstrepository
-# repository-s-gio
